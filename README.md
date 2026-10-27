@@ -31,11 +31,9 @@ Invoke-PS2EXE .\compile.ps1 .\compile_tool.exe
 
 **Use Resource Hacker**
 
-**You can use any type of image , But I prefer : ico**
-
 **Convert your image to ico using image to ico online converter**
 
-**Add image and click file and click save**
+**Add image.ico and click file and click save**
 
 **Boom! You got exe with icon and previous exe saved as: {name}_original.exe
 
