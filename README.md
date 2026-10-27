@@ -3,8 +3,10 @@
 
 **Then windows defender flag the exe as threat**
 
-**Only use this method:**
-
+<details>
+  <summary><b>Only use this method</b></summary>
+  <p>
+  
 *Install ps2exe*
 ```bash
 Install-Module ps2exe -Scope CurrentUser
@@ -17,6 +19,8 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 ```bash
 Invoke-PS2EXE .\compile.ps1 .\compile_tool.exe
 ```
+</p>
+</details>
 
 ## Or use ps2exe.bat , it's automated
 
@@ -34,3 +38,5 @@ Invoke-PS2EXE .\compile.ps1 .\compile_tool.exe
 **Add image and click file and click save**
 
 **Boom! You got exe with icon and previous exe saved as: {name}_original.exe
+
+**Link >**  https://www.angusj.com/resourcehacker
