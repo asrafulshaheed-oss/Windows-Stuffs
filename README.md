@@ -33,4 +33,4 @@ Invoke-PS2EXE .\compile.ps1 .\compile_tool.exe
 
 **Add image and click file and click save**
 
-**Boom! You got exe with icon and previous exe saved as: <name>_original.exe
+**Boom! You got exe with icon and previous exe saved as: {name}_original.exe
